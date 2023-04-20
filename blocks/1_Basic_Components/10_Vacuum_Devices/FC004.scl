@@ -1,0 +1,23 @@
+﻿FUNCTION "FC004" : Void
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+   VAR_TEMP 
+      T1 : Bool;
+   END_VAR
+
+
+BEGIN
+	(*
+	we will delete this fc in the ide
+	and then also in the master!
+	*)
+	
+	#T1 := TRUE;
+	
+	IF #T1 THEN
+	    ;
+	ELSE
+	    ;
+	END_IF;
+END_FUNCTION
+

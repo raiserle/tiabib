@@ -1,0 +1,24 @@
+﻿FUNCTION "FC002" : Void
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+   VAR_INPUT 
+      B1 : Bool;
+      B2 : Bool;
+   END_VAR
+
+
+BEGIN
+	(*
+	We will use this FC to have some changes in the IDE to
+	merge this to the master, or better! Copy this to the master!
+	*)
+	
+	IF #B1 THEN
+	    ;
+	END_IF;
+	
+	IF #B2 THEN
+	    ;
+	END_IF;
+END_FUNCTION
+

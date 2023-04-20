@@ -1,0 +1,21 @@
+﻿FUNCTION_BLOCK "FB001"
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+   VAR_IN_OUT 
+      INPUT_001 : Bool;
+      INPUT_002 : Bool;
+   END_VAR
+
+   VAR 
+      CTRL { S7_SetPoint := 'False'} : "HEATER_CONTOLLER_001";
+      HEAT : "HEATER_DT_001";
+   END_VAR
+
+
+BEGIN
+	(*
+	FB001
+	SOME TESTING A
+	*)
+END_FUNCTION_BLOCK
+

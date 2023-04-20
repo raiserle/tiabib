@@ -1,0 +1,20 @@
+﻿FUNCTION_BLOCK "FB002"
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+   VAR 
+      TEST : Bool;
+      Control { S7_SetPoint := 'False'} : "HEATER_DT_001";
+      ABC { S7_SetPoint := 'True'} : DInt;
+   END_VAR
+
+
+BEGIN
+	(*
+	The FB002 is used to get some changes from master branch into this program
+	
+	*)
+	//we will change the value on the master
+	#TEST := FALSE;
+	
+END_FUNCTION_BLOCK
+

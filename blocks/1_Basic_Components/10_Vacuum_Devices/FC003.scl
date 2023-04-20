@@ -1,0 +1,36 @@
+﻿FUNCTION "FC003" : Void
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+   VAR_INPUT 
+      A1 : Bool;
+      A2 : Bool;
+   END_VAR
+
+   VAR_OUTPUT 
+      O1 : Bool;
+      O2 : Bool;
+   END_VAR
+
+
+BEGIN
+	(*
+	And this FC is used to habe changes on both sides
+	to merge master and ide in one file, located in the tmp-repository [manually merge]
+	 - and reiport this FC into the ide
+	 - and copy to the master
+	*)
+	
+	
+	(*
+	we will change the condition output :D
+	*)
+	IF #A1 AND #A2 THEN
+	    #O1 := TRUE;
+	ELSE
+	    #O1 := FALSE;
+	END_IF;
+	
+	#O2 := #A1;
+	
+END_FUNCTION
+
