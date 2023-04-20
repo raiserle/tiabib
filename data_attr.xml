@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSerializeTypeResolverInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SerializeTypeResolverInfo>
+    <TypeName>Fhr.Scm.DataModel.CodeDirtyType</TypeName>
+    <AssemblyName>Fhr.Scm.DataModel</AssemblyName>
+  </SerializeTypeResolverInfo>
+  <SerializeTypeResolverInfo>
+    <TypeName>Fhr.Scm.DataModel.CodeFileLanguage</TypeName>
+    <AssemblyName>Fhr.Scm.DataModel</AssemblyName>
+  </SerializeTypeResolverInfo>
+  <SerializeTypeResolverInfo>
+    <TypeName>Fhr.Scm.DataModel.CodeFileType</TypeName>
+    <AssemblyName>Fhr.Scm.DataModel</AssemblyName>
+  </SerializeTypeResolverInfo>
+  <SerializeTypeResolverInfo>
+    <TypeName>Fhr.Scm.DataModel.CodeFileDependency</TypeName>
+    <AssemblyName>Fhr.Scm.DataModel</AssemblyName>
+  </SerializeTypeResolverInfo>
+  <SerializeTypeResolverInfo>
+    <TypeName>System.Boolean</TypeName>
+    <AssemblyName>mscorlib</AssemblyName>
+  </SerializeTypeResolverInfo>
+  <SerializeTypeResolverInfo>
+    <TypeName>System.String</TypeName>
+    <AssemblyName>mscorlib</AssemblyName>
+  </SerializeTypeResolverInfo>
+</ArrayOfSerializeTypeResolverInfo>
