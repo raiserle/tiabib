@@ -30,7 +30,7 @@ BEGIN
 	    #O1 := FALSE;
 	END_IF;
 	
-	#O2 := #A1;
+	#O2 := #A2;
 	
 END_FUNCTION
 
