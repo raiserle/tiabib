@@ -3,6 +3,17 @@
   <CodeFile>
     <CodeFileType>FunctionBlock</CodeFileType>
     <CodeDirtyType>Unknown</CodeDirtyType>
+    <Name>FC9000</Name>
+    <Extension>scl</Extension>
+    <Path />
+    <HasAttribute>false</HasAttribute>
+    <CodeFileLanguage>Scl</CodeFileLanguage>
+    <SubEntry>blocks</SubEntry>
+    <Dependencies />
+  </CodeFile>
+  <CodeFile>
+    <CodeFileType>FunctionBlock</CodeFileType>
+    <CodeDirtyType>Unknown</CodeDirtyType>
     <Name>FB001</Name>
     <Extension>scl</Extension>
     <Path>1_Basic_Components/10_Vacuum_Devices/</Path>
