@@ -1,0 +1,14 @@
+﻿FUNCTION "FC006" : Bool
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+
+BEGIN
+	(*
+	for the last check,
+	this fc will be add to the ide and after merge copy as new file to
+	the master, also add this to the master data.xml
+	*)
+	
+	#FC006 := TRUE;
+END_FUNCTION
+

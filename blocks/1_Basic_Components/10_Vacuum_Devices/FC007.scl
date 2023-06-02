@@ -16,7 +16,7 @@ BEGIN
 	change in IDE, delete in master
 	*)
 	
-	IF #I1 THEN
+	IF #I2 THEN
 	    #O1 := TRUE;
 	END_IF;
 END_FUNCTION

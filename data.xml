@@ -69,18 +69,7 @@
   <CodeFile>
     <CodeFileType>Function</CodeFileType>
     <CodeDirtyType>Unknown</CodeDirtyType>
-    <Name>FC004</Name>
-    <Extension>scl</Extension>
-    <Path>1_Basic_Components/10_Vacuum_Devices/</Path>
-    <HasAttribute>false</HasAttribute>
-    <CodeFileLanguage>Scl</CodeFileLanguage>
-    <SubEntry>blocks</SubEntry>
-    <Dependencies />
-  </CodeFile>
-    <CodeFile>
-    <CodeFileType>Function</CodeFileType>
-    <CodeDirtyType>Unknown</CodeDirtyType>
-    <Name>FC007</Name>
+    <Name>FC006</Name>
     <Extension>scl</Extension>
     <Path>1_Basic_Components/10_Vacuum_Devices/</Path>
     <HasAttribute>false</HasAttribute>
@@ -91,7 +80,7 @@
   <CodeFile>
     <CodeFileType>Function</CodeFileType>
     <CodeDirtyType>Unknown</CodeDirtyType>
-    <Name>FC008</Name>
+    <Name>FC007</Name>
     <Extension>scl</Extension>
     <Path>1_Basic_Components/10_Vacuum_Devices/</Path>
     <HasAttribute>false</HasAttribute>

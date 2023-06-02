@@ -13,11 +13,11 @@ BEGIN
 	merge this to the master, or better! Copy this to the master!
 	*)
 	
-	IF #B1 THEN
+	IF #B2 THEN
 	    ;
 	END_IF;
 	
-	IF #B2 THEN
+	IF #B1 THEN
 	    ;
 	END_IF;
 END_FUNCTION
