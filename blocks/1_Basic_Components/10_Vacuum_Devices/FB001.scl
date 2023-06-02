@@ -16,6 +16,7 @@ BEGIN
 	(*
 	FB001
 	SOME TESTING A
+	Another test
 	*)
 END_FUNCTION_BLOCK
 
