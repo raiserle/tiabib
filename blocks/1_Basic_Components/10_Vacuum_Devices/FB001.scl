@@ -17,6 +17,7 @@ BEGIN
 	FB001
 	SOME TESTING A
 	Another test by me
+	and you
 	*)
 END_FUNCTION_BLOCK
 
