@@ -14,7 +14,7 @@ BEGIN
 	
 	*)
 	//we will change the value on the master
-	#TEST := TRUE;
+	#TEST := FALSE;
 	
 END_FUNCTION_BLOCK
 

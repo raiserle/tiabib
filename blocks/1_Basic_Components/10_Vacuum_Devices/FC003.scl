@@ -25,12 +25,12 @@ BEGIN
 	we will change the condition output :D
 	*)
 	IF #A1 AND #A2 THEN
-	    #O1 := TRUE;
-	ELSE
 	    #O1 := FALSE;
+	ELSE
+	    #O1 := TRUE;
 	END_IF;
 	
-	#O2 := #A2;
+	#O2 := #A1;
 	
 END_FUNCTION
 
