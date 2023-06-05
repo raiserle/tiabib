@@ -4,5 +4,9 @@ VERSION : 0.1
 
 BEGIN
 	(*test*)
+	;
+	IF ABS_ THEN
+	    ;
+	END_IF
 END_FUNCTION_BLOCK
 
