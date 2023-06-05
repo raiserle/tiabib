@@ -1,7 +1,7 @@
 ﻿FUNCTION_BLOCK "FC9000"
 { S7_Optimized_Access := 'TRUE' }
 VERSION : 0.1
-
+(*some code*)
 BEGIN
 END_FUNCTION_BLOCK
 
