@@ -3,10 +3,6 @@
 VERSION : 0.1
 
 BEGIN
-	(*test*)
-	;
-	IF ABS_ THEN
-	    ;
-	END_IF
+	(*some changes*)
 END_FUNCTION_BLOCK
 
