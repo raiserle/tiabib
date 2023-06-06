@@ -4,5 +4,6 @@ VERSION : 0.1
 
 BEGIN
 	(*some changes*)
+	(*some changes again!*)
 END_FUNCTION_BLOCK
 
